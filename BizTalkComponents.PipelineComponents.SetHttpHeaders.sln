@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetHttpHeaders", "Src\SetHttpHeaders\SetHttpHeaders.csproj", "{044C2159-82E6-43AF-8D87-3538DF1AF758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "Tests\UnitTests\UnitTests.csproj", "{F005F9D2-8D47-11EB-85EF-29AA23E9CDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044C2159-82E6-43AF-8D87-3538DF1AF758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044C2159-82E6-43AF-8D87-3538DF1AF758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044C2159-82E6-43AF-8D87-3538DF1AF758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044C2159-82E6-43AF-8D87-3538DF1AF758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F005F9D2-8D47-11EB-85EF-29AA23E9CDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F005F9D2-8D47-11EB-85EF-29AA23E9CDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F005F9D2-8D47-11EB-85EF-29AA23E9CDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F005F9D2-8D47-11EB-85EF-29AA23E9CDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

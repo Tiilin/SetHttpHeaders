@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BizTalkComponents.PipelineComponents.SetHttpHeaders</id>
+    <version>1.0</version>
+    <authors>Timothy Lindberg</authors>
+    <projectUrl>https://github.com/Tiilin/SetHttpHeaders</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Creates httpheaderstring from propertis for wcf-webhttp adapter</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>BizTalk</tags>
+  </metadata>
+<files>
+    <file src="\bin\release\BizTalkComponents.PipelineComponents.SetHttpHeaders.dll" target="lib\net46"/>
+  </files>
+</package>
